@@ -26,10 +26,10 @@ This fork includes several critical improvements and fixes:
 
 ### 📦 **Project Structure:**
 - Added `.gitignore` for cleaner repository
-- Created `.env.example` template
-- Added virtual environment setup instructions
 
 **Result:** A stable, production-ready RAG system with clean UI and reliable model integration.
+
+![Screenshot of the Gradio UI](images/ui-screenshot.png)
 
 # R1 Distill RAG System
 
