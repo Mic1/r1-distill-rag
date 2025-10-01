@@ -10,7 +10,6 @@ This fork includes several critical improvements and fixes:
 - Modern soft theme with better visual hierarchy
 - Sidebar with clickable example questions
 - Fixed deprecated chatbot format (now uses OpenAI-style messages)
-- Removed UI label overlay issues
 
 ### 🧠 **Model Compatibility Fixes:**
 - Added support for `llama3.1:8b-8k` with native tool-calling capabilities
@@ -19,7 +18,6 @@ This fork includes several critical improvements and fixes:
 - Enhanced error handling with `ErrorHandlingAgent` wrapper
 
 ### 🛠️ **Technical Improvements:**
-- Downgraded to stable versions: `smolagents==1.6.0`, `gradio==5.14.0`
 - Fixed streaming response errors
 - Added graceful error recovery for model response parsing
 - Improved agent-to-UI communication
